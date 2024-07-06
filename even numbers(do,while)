@@ -1,0 +1,17 @@
+import java.util.Scanner;
+public class Evennumber
+{
+    public static void main(String[]arg)
+    {
+       int i=0;
+        Scanner input=new Scanner(System.in);
+        System.out.println("enter:");
+        int n=input.nextInt();
+        do 
+        {
+        i=i+2;
+        System.out.println(i);
+        }
+        while (i<=n);
+    }
+}
