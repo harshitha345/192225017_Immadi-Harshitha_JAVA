@@ -1,0 +1,75 @@
+
+
+\end{minipage} 
+\hfill
+\begin{minipage}[t]{0.66\textwidth} 
+\section{Languages}
+\vspace{4pt}
+Tamil(conversation),Telugu(Mother Tongue),\\ English(fluent), Hindi (Basic)
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     PROJECTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
+\vspace{8pt}
+
+\runsubsection{PROJECT NAME 1}
+\descript{| Mini Project}
+\location{Nov 2024 – Apr 2025}
+\vspace{8pt}
+\begin{tightemize}
+\item Developed an iOS application to help users\\ track and receive reminders for their daily medications.
+\item Implemented recurring local notifications \\for multiple doses per day using Swift and iOS frameworks.
+\item Enabled features for adding, editing, and \\deleting medicines with time, dosage, and frequency details.
+\item Tech Stack: {\bf Swift, Xcode, SwiftUI, Local Notifications}
+\end{tightemize}
+\vspace{8pt}
+
+\runsubsection{PROJECT NAME 2}
+\descript{| Main Project}
+\location{Jan 2024 - May 2024}
+\vspace{4pt}
+\begin{tightemize}
+\item Enhancing productivity in agriculture\\ using Deep learning
+\item Implemented feature engineering and effectively handled class imbalance.
+\item Achieved \textbf{96\%} accuracy using Random Forest.
+\item Tech Stack: {\bf Python, ML models}
+\end{tightemize}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     ACHIEVEMENTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Achievements}
+\begin{itemize}
+\subsection{Academics}
+\vspace{4pt}
+\item 2nd in school in X Examination with {\bf 99.4\%.}
+\vspace{6pt}
+\subsection{coding}
+\setlength\itemsep{0em} % Adjust spacing between items
+\item Solved 100+ problems in Leetcode with handle \href{https://leetcode.com/u/Harshithaimmadi/}{\bf Immadiharhitha}
+\end{itemize}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{TECH PROFILE LINKS}
+\vspace{4pt}
+\begin{itemize}
+\item GitHub:// \href{https://github.com/harshitha345/}{\bf ImmadiHarshitha}
+\end{itemize}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     INTERESTS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Interests}
+\vspace{4pt}
+Painting\\
+\vspace{2pt}
+Sketching
+\end{minipage} 
+
+\end{document} 
